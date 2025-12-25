@@ -255,6 +255,7 @@ body {
   min-height: 100vh;
   display: flex;
   position: relative;
+  flex-direction: row-reverse;
 }
 
 .disposable_label_absolute {
@@ -501,6 +502,7 @@ body {
   min-height: 100vh;
   display: flex;
   position: relative;
+  flex-direction: row-reverse;
 }
 
 .pod_standard_label_absolute {
